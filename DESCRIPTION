@@ -1,0 +1,9 @@
+Package: AHIUT
+Title: AHIUT
+Version: 0.0.0.9000
+Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
+Description: Testing AH or finding the number of causal SNPs using summary statistics and intersection-union tests.
+Depends: R (>= 3.2.4)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
